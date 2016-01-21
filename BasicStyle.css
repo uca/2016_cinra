@@ -1,0 +1,65 @@
+h3 {
+	background-color : lightblue;
+}
+
+select {
+	width : 220px	;
+	margin : 5px 10px 5px 10px;
+	padding : 0;
+}
+
+.main_right {
+	width : 900px;
+	float: left;
+	margin : 5px;
+}
+
+.main_left {
+	width : 300px;
+	float: left;
+	margin : 5px;
+}
+
+.textBox {
+	width : 220px;
+	margin : 5px 10px 5px 10px;
+	padding : 0;
+}
+
+ul {
+	margin-bottom: 10px;
+}
+
+ul li {
+	list-style : none;
+}
+
+.shinryokoui{
+	margin : 10px auto 10px;
+	height : 70px;
+}
+
+.kbnCode{
+	width:50px;
+	border:dobule;
+	background-color: #dddddd;
+}
+
+.shinryokomoku{
+	margin : 10px auto 10px;
+	height : 70px;
+}
+
+.shinryokomoku li{
+	float : left;
+	width : 160px;
+}
+
+.shinryokomoku input{
+	float: left;
+}
+
+.shinryokomoku label{
+	cursor: pointer;
+}
+
